@@ -1,7 +1,8 @@
 # Gr4
-# Bouchnafa Delsart Gaubil
 
-    class Carte:
+
+
+    
 
         #Représente une carte à jouer standard.
 
